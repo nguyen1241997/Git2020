@@ -1,3 +1,7 @@
 happy new year
 nguyen vu nguyen
+<<<<<<< HEAD
 say hi
+=======
+say hello
+>>>>>>> 25973249cab99d596f9687f9c0fa28d49a3926af
